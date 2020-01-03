@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097713965278",
+    "firebase_url": "https://communication-academt.firebaseio.com",
+    "project_id": "communication-academt",
+    "storage_bucket": "communication-academt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097713965278:android:8d6640f2b11b695b5e0a4f",
+        "android_client_info": {
+          "package_name": "com.communicationacademy.communicationacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097713965278-eo9b2u68967hshv26egnh77adljaslrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipYRqdv24SH4aCb5xRJNTQ7CdWldih0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097713965278-eo9b2u68967hshv26egnh77adljaslrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
